@@ -44,7 +44,7 @@ const XPBoostButtons = [ //Stats of the xpboost buttons
   
 const StatButtons = [
   {name: "Test", stats: 0, cooldown: 60, cooldownID: 0, unlock: 0},
-  {name: "StatButton1", stats: 5, cooldown: 3600, cooldownID: 20, unlock: 21},
+  {name: "StatButton1", stats: 5, cooldown: 5, cooldownID: 20, unlock: 21},
   {name: "StatButton2", stats: 20, cooldown: 21600, cooldownID: 25, unlock: 24},
   {name: "StatButton3", stats: 50, cooldown: 43200, cooldownID: 37, unlock: 26},
   {name: "StatButton4", stats: 120, cooldown: 86400, cooldownID: 38, unlock: 27},
