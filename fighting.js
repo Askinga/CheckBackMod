@@ -1,8 +1,8 @@
 const FightingButtons = [ //Stats of the xpboost buttons
   {name: "Test", level: 0, xpboost: 0, cooldown: 60, cooldownID: 0, unlock: 0},
-  {name: "Area1", cooldown: 3600, cooldownID: 21, unlock: 21},
-  {name: "Area2", cooldown: 3600, cooldownID: 22, unlock: 2},
-  {name: "Area3", cooldown: 3600, cooldownID: 26, unlock: 25},
+  {name: "Area1", cooldown: 100, cooldownID: 21, unlock: 21},
+  {name: "Area2", cooldown: 200, cooldownID: 22, unlock: 2},
+  {name: "Area3", cooldown: 300, cooldownID: 26, unlock: 25},
 ]
 
 //All of fighting stuff will be added here
