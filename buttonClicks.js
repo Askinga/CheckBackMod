@@ -26,7 +26,7 @@ function clickButton(x) {
 
 const XPBoostButtons = [ //Stats of the xpboost buttons
   {name: "Test", xpboost: 0, cooldown: 60, cooldownID: 0, unlock: 0},
-  {name: "XPBbutton1", xpboost: 0.01, cooldown: 3, cooldownID: 12, unlock: 13},
+  {name: "XPBbutton1", xpboost: 0.02, cooldown: 2, cooldownID: 12, unlock: 13},
   {name: "XPBbutton2", xpboost: 0.02, cooldown: 7200, cooldownID: 15, unlock: 15},
   {name: "XPBbutton3", xpboost: 0.03, cooldown: 21600, cooldownID: 19, unlock: 16},
   {name: "XPBbutton4", xpboost: 0.05, cooldown: 43200, cooldownID: 41, unlock: 18},
