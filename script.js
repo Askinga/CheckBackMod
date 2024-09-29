@@ -76,6 +76,8 @@ reset()
 //If the user confirms the hard reset, resets all variables, saves and refreshes the page
 function hardReset() {
   if (confirm("Are you sure you want to reset? You will lose everything!")) {
+  if (confirm("What, Are you sure you want to reset??? You will lose everything!!!")) {
+  if (confirm("LAST CHANCE!! Are you sure you want to reset????? You will lose EVERYTHING!!!!!")) {
     reset()
     save()
     location.reload()
